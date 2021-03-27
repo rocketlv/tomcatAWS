@@ -50,6 +50,10 @@ request.setAttribute("tomcatExamplesUrl", "/examples/");
                 <div id="congrats" class="curved container">
                     <h2>Andrey Tsinyovskyy - this is tomcat configuration - Congratulations!</h2>
                 </div>
+		<div id="congrats" class="curved container">
+                    <h2>Andrey Tsinyovskyy - this push tomcat configuration - Congratulations!</h2>
+                </div>
+
                 <div id="notice">
                     <img id="tomcat-logo" src="tomcat.svg" alt="[tomcat logo]" />
                     <div id="tasks">
